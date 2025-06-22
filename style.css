@@ -278,6 +278,7 @@ img {
 }
 
 .btn:hover {
+    cursor: pointer;
     padding: 22px;
     box-shadow: 0 0 10px 7px #0066ff;
 }
